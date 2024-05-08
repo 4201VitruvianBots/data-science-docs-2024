@@ -1,0 +1,39 @@
+# Team 4201 Data Science 2024 Documentation
+
+- Apps Overview
+    - Match App
+    - Super Scout App
+    - Recon App
+    - Pit App
+    - Admin App
+    - Picklist App
+    - Score Calculator
+    - Games
+- Code
+    - Repository Infrastructure
+        - Layout & Monorepo
+        - Build System
+        - Software/Frameworks
+            - TypeScript
+            - Vite
+            - React
+            - Tailwind CSS
+            - Express
+            - MongoDB
+            - Mongoose
+            - Docker
+            - PWA
+    - Frontend code structure
+        - Important reusable code
+            - `useQueue`
+            - `TeamDropdown`
+            - 
+        - Main parts
+            - Apps
+            - `Workspace`
+    - Backend code structure
+    - Database Models
+- Usage
+    - Setup Instructions
+    - Admining
+    - Analysis
