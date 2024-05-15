@@ -1,5 +1,3 @@
-# Team 4201 Data Science 2024 Documentation
+This project has been moved. Use the Wiki tab on [scouting-app-2024](https://github.com/4201VitruvianBots/scouting-app-2024) instead.
 
-Welcome to the Team 4201 Data Science 2024 Documentation!
-
-Start at [CONTENTS](CONTENTS.md).
+Clone https://github.com/4201VitruvianBots/scouting-app-2024.wiki.git to edit files locally.
